@@ -1,0 +1,1 @@
+We'll write a web app called Learning Log
