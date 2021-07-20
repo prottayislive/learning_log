@@ -1,1 +1,2 @@
-We'll write a web app called Learning Log
+We'll write a web app called Learning Log.
+This app keeps a track of everything someone has learned 
